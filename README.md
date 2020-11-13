@@ -1,1 +1,1 @@
-# PythonSolutions_Hackerrank
+SOLUTIONS FOR LANGUAGE PROFICIENCY
